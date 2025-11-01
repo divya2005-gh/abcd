@@ -1,0 +1,9 @@
+3
+shuffled
+A
+B
+C
+original
+A
+B
+C

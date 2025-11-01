@@ -1,0 +1,15 @@
+6
+shuffled
+Dice the onion
+Dice the rice
+Pour the onion
+Stir the egg
+Fold the lettuce
+Serve the tomato
+original
+Pour the onion
+Stir the egg
+Fold the lettuce
+Dice the onion
+Dice the rice
+Serve the tomato
